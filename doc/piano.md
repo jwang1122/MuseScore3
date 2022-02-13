@@ -2,12 +2,86 @@
 
 NetFlix: Asdfjkl1Net
 
+## 和声学
+
+[和声学YouTube](https://www.youtube.com/watch?v=TO27YXJ75g4)
+
+🔔💡 **Knowlodge Base**
+```
+主和弦Tonic：       i （CEG，135）， T 安详，稳重
+属和弦Dominant：    V （GBD，572）， D 紧张
+下属和弦Subdominat：IV (FAC，461)， S 明亮，上升
+```
+乐曲走向：T->S->D->T
+![](images/tsdt.png)
+
+T>S>T: 变格进行
+T>D>T: 正格进行
+T>S>D>T: 完整进行
+
+副三和弦：(正三和弦的替换分身，提供色彩变化)
+T: vi （大调）或 VI（小调）
+D: vii（大调、小调和声小音阶）或VII（自然小音阶）
+S: ii （大调）或 $ii^0$ （小调)
+
+![](images/副三和弦进行式.png)
+
+![](images/tsdtExtension.png)
+
+所谓的 1 6 4 5 1 就是 T t S D T
+
+![如何参加合唱](https://www.youtube.com/watch?v=OgTReQ676ug)
+
+## 四部合唱编写 (Four Part Harmony)
+各声部音域：男低音42  男高音16 女中音52 女高音16
+![](https://www.youtube.com/watch?v=GoUQ_WHCe48)
+
+![](https://www.youtube.com/watch?v=b6fu5B3XiIA)
+
+🔔💡 **Knowlodge Base**
+```
+V > I: Perfect
+IV > I: Plagal
+(I,II,IV) > V: Imperfect
+V > VI: Interrupted
+```
+大局观：
+1. 确定每小节的和弦
+1. 选择乐句的开始和结束，确定使用I
+2. 倒着从结束句，使用IV
+3. 再从第二小节开始，按照照顾前后小节，
+
+![](images/四部和声.png)
+
+![](images/四部和声两次音.png)
+
+![](images/四部和声大忌.png)
+
+![](images/平行八度.png)
+
+![](images/平行五度.png)
+
+![](images/四部同向.png)
+
+![](images/音域交越.png)
+
+🔔💡 **Knowlodge Base**
+
+⚡️所谓平行八度和平行五度是指音符走向。
+
 ## Piano Chords
 ![Common Piano Chords](images/chords.png)
 
 🔔💡 **Knowlodge Base**
 1. 按照唱名，1-3-5是大调(major)和弦，6-1-3是小调(minor)和弦
 2. 按照琴键间隔，三键-两键是大调(major)和弦，两键-三键是小调(minor)和弦
+3. 按照音程关系, 大三度+小三度 为大调和弦，小三度+大三度 为小调和弦
+4. 升调号顺序：FCGDAEB 》4152637 （完全五度）
+5. 降调号顺序：BEADGCF 》7362514
+6. 升调号推调名：最后一个升号的音名向上推半音就是该调的调号：#F > G 大调；#E > #F 大调； ...
+7. 调名推调号：调名向下半音得到调号最后一个升号的音名，按照升调顺序逐次写下升号，听着这个音名上。
+8. 降调号推调名：倒数第二个降记号的音名就是调名，一个降号是F大调。
+
 
 ![](images/chords.jpg)
 

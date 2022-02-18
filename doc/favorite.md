@@ -19,3 +19,5 @@
 * [右手分解和弦技巧](https://www.youtube.com/watch?v=jN0nuX9hjoc)
 * 👌[我只在乎你-经过音](https://www.youtube.com/watch?v=IBInw8dkhLE)
 * 👍😄[全分解伴奏织体教学《童话》16m45](https://www.youtube.com/watch?v=4KZ-6XaJtwE)
+* [如何演唱可可托海的牧羊人](https://www.youtube.com/watch?v=Bspw78hpwHo)
+* [男女对唱](https://www.youtube.com/watch?v=X1ScSXuCUyA)

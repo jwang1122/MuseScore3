@@ -4,7 +4,7 @@
 * 👍😄[Piano University](https://www.bestpianoclass.com/thanks-for-signing-up/)
 * [生日快乐和声编写](https://www.youtube.com/watch?v=xQBCxe4LE7I)
 * [钢琴自弹自唱](https://www.youtube.com/watch?v=bOE9K9pu59M)
-* 
+* [4-1和声（四部和声法则、和声排列法）](https://gaga.cool/2022/01/20/4-1%E5%92%8C%E5%A3%B0%EF%BC%88%E5%9B%9B%E9%83%A8%E5%92%8C%E5%A3%B0%E6%B3%95%E5%88%99%E3%80%81%E5%92%8C%E5%A3%B0%E6%8E%92%E5%88%97%E6%B3%95%EF%BC%89/?amp=1)
 * Casio CTK-3500
 * [噶老师乐理系列01](https://www.youtube.com/watch?v=IiyzCW--nTY&list=PLj_gywSMZj5SQNfVmVQs2EhfMTCiuNrhX&index=1)
 * [好和弦](https://www.youtube.com/watch?v=I0y2LY4sPZA&list=PLmVjZfPp5kiNVtlRBphjzBUIH_Xa15h08)

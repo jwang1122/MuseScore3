@@ -2,6 +2,18 @@
 
 NetFlix: Asdfjkl1Net
 
+1. 旋律
+2. 节奏
+3. 和声
+
+多音色
+即时控制器，摇杆，滚轮
+音乐工作站
+
+## 升降号
+升号：4152637（4起始，隔一个升一个，第二个升5度）
+降号：7362514（7起始，隔一个降一个，第二个降5度）
+
 ## 和声学
 
 [和声学YouTube](https://www.youtube.com/watch?v=TO27YXJ75g4)
@@ -34,22 +46,24 @@ S: ii （大调）或 $ii^0$ （小调)
 
 ## 四部合唱编写 (Four Part Harmony)
 各声部音域：男低音42  男高音16 女中音52 女高音16
-![](https://www.youtube.com/watch?v=GoUQ_WHCe48)
+👍😄[A Beginner's Guide to Four-Part Harmony](https://www.youtube.com/watch?v=GoUQ_WHCe48)
 
-![](https://www.youtube.com/watch?v=b6fu5B3XiIA)
+[How to Sing Harmony - Lesson and Exercises](https://www.youtube.com/watch?v=b6fu5B3XiIA)
+
 
 🔔💡 **Knowlodge Base**
 ```
-V > I: Perfect
-IV > I: Plagal
-(I,II,IV) > V: Imperfect
+cadences: 节奏
+V > I: Perfect cadences
+IV > I: Plagal cadences
+(I,ii,IV) > V: Imperfect cadences
 V > VI: Interrupted
 ```
 大局观：
 1. 确定每小节的和弦
-1. 选择乐句的开始和结束，确定使用I
-2. 倒着从结束句，使用IV
-3. 再从第二小节开始，按照照顾前后小节，
+2. 选择乐句的开始和结束，确定使用I
+3. 倒着从结束句，使用IV
+4. 再从第二小节开始，按照照顾前后小节，
 
 ![](images/四部和声.png)
 
@@ -111,7 +125,30 @@ V > VI: Interrupted
 
 ## 配和弦法则
 [配和弦法则](https://www.youtube.com/watch?v=cLESaZyDKlU)
+* 全曲第一个和最后一个和弦135
+* 全曲倒数第二个和弦572
+* 只能用135 接 361 接 572
+* 572 不能接 461
+* 和弦尽量有变化，用过的不要再重复使用
+* 相邻和弦有共同音，461 接 572 例外
+
+
 * 👍😄[好和弦](https://www.youtube.com/watch?v=I0y2LY4sPZA&list=PLmVjZfPp5kiNVtlRBphjzBUIH_Xa15h08)
+
+🔔💡 **Knowlodge Base**
+1. 使用唱名比较容易搞定和弦。
+2. 三和弦Triad，四个音七和弦，五个音九和弦，六个音11和弦，七个音13和弦
+3. 七和弦的大调音阶为大和弦，降3降7为小和弦，只降7为属7和弦
+4. 大和弦家族：C, Cmaj7, Cmaj9, Cmaj11, Cmaj13
+5. 小和弦家族：Cm, Cm7, Cm9, Cm11, Cm13
+6. 属和弦家族：C7, C9, C11, C13
+7. 增加音add：Cadd2, Cadd6, Cadd4
+8. 替代音sub: Csus4, Csus2, C7sus，用2，4换掉3
+9. 省略音omit: Cmaj9(omit3)
+10. 升降音（）: Cmaj9(#5), C7(b9), Cmaj13(#11), C7(#9, #11, b13)
+11. 转位：C/E, C on E, 以E为根音。C/F，在135中外加4作为根音
+![](images/其他和弦.png)
+
 * [一招配和弦](https://www.youtube.com/watch?v=tqrgP-doNyU)
 * 😢[1645和弦即兴伴奏](https://www.youtube.com/watch?v=y-_oekyMsAA)
 * 👍😄[6251-9和弦](https://www.youtube.com/watch?v=InRnUkIBvVs)

@@ -1,6 +1,8 @@
 <h1>Favorite YouTube</h1>
 
-* [SoundTrap](https://www.soundtrap.com/activate/?c=ba5ue5i4jcnl90pbdi8rlc28tr&e=wangqianjiang%40live.com&url=%2Fhome)
+* [SoundStrap](https://www.soundtrap.com/activate/?c=ba5ue5i4jcnl90pbdi8rlc28tr&e=wangqianjiang%40live.com&url=%2Fhome)
+* [SoundStrap without sign-in](https://www.soundtrap.com/home/creator/projects)
+* 
 * 👍😄[Piano University](https://www.bestpianoclass.com/thanks-for-signing-up/)
 * [生日快乐和声编写](https://www.youtube.com/watch?v=xQBCxe4LE7I)
 * [钢琴自弹自唱](https://www.youtube.com/watch?v=bOE9K9pu59M)

@@ -23,3 +23,5 @@
 * 👍😄[全分解伴奏织体教学《童话》16m45](https://www.youtube.com/watch?v=4KZ-6XaJtwE)
 * [如何演唱可可托海的牧羊人](https://www.youtube.com/watch?v=Bspw78hpwHo)
 * [男女对唱](https://www.youtube.com/watch?v=X1ScSXuCUyA)
+* [键盘和声](https://www.youtube.com/watch?v=61lMcsLVo4k)
+* 👍😄[原来和声能这么用](https://www.youtube.com/watch?v=dNoKqoEyKGs)

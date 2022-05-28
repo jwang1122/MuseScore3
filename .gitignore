@@ -2,3 +2,4 @@
 *.msi
 *.pdf
 .mscbackup/
+env/
